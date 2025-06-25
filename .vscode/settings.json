@@ -1,4 +1,8 @@
-
 {
-    "deno.enable": true,
+    "clarinet.enable": true,
+    "files.associations": {
+        "*.clar": "clarity"
+    },
+    "editor.formatOnSave": true,
+    "git.autofetch": true
 }
